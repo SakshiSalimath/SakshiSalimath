@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SakshiSalimath
-- 🌱 I’m currently learning mtech in vlsi
 - 📫 How to reach me salimathsakshi4@gmail.com
 
 <!---
